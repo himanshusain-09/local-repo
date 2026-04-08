@@ -1,2 +1,1 @@
-" this is my first local repo"
-clea
+# this is my first local repo
